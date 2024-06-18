@@ -1,4 +1,4 @@
-# Plotly Map Plotting Project
+# Plotly Map Plotting
 
 This repository contains code for plotting maps using Plotly. It is part of my learning journey in data visualization with Python.
 
